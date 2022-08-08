@@ -1,0 +1,36 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: blanchedalmond;
+    display: grid;
+    place-items: center;
+}
+
+form{
+    background-color: rgb(206 219 124);
+    font-size: 3rem;
+    border-radius: 12px;
+    margin: 10px 20px;
+}
+
+input#temp{
+    /* padding: 10px 20px; */
+    margin: 0px 208px;
+    border-radius: 5px;
+    padding: 6px;
+    
+}
+
+select{
+    margin: 14px -210px;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+#tempp{
+    margin: 14px 320px;
+    padding: 6px;
+    border-radius: 7px;
+
+}
+
